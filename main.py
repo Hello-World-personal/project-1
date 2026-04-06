@@ -10,4 +10,4 @@ language = st.selectbox("Pick your favourate programming language: ", ["Python",
 st.write(f"{language}, that's an excellent choice")
 
 
-st.success("Your prefered language is selected successfully")
+st.success("Your prefered language is selected successfully.")
